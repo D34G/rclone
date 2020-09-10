@@ -306,6 +306,8 @@ github.com/modern-go/reflect2 v1.0.1 h1:9f412s+6RmYXLWZSEzVVgPGK7C2PphHj5RJrvfx9
 github.com/modern-go/reflect2 v1.0.1/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/mschoch/smat v0.0.0-20160514031455-90eadee771ae/go.mod h1:qAyveg+e4CE+eKJXWVjKXM4ck2QobLqTDytGJbLLhJg=
 github.com/mwitkow/go-conntrack v0.0.0-20161129095857-cc309e4a2223/go.mod h1:qRWi+5nqEBWmkhHvq77mSJWrCKwh8bxhgT7d/eI7P4U=
+github.com/ncw/ftp v0.0.0-20200910202626-83bf7f3051fe h1:vJHusE940z05SKcdSy67YvPeZi9DkV7k1awGFKhCwXs=
+github.com/ncw/ftp v0.0.0-20200910202626-83bf7f3051fe/go.mod h1:2lmrmq866uF2tnje75wQHzmPXhmSWUt7Gyx2vgK1RCU=
 github.com/ncw/go-acd v0.0.0-20171120105400-887eb06ab6a2 h1:VlXvEx6JbFp7F9iz92zXP2Ew+9VupSpfybr+TxmjdH0=
 github.com/ncw/go-acd v0.0.0-20171120105400-887eb06ab6a2/go.mod h1:MLIrzg7gp/kzVBxRE1olT7CWYMCklcUWU+ekoxOD9x0=
 github.com/ncw/swift v1.0.52 h1:ACF3JufDGgeKp/9mrDgQlEgS8kRYC4XKcuzj/8EJjQU=
